@@ -1,6 +1,6 @@
 ### About me:
 
-I'm currently enrolled at ASU pursuing a Bachelor's of Science in Software Engineering, and working as a Software Engineering in Test intern at Toshiba Global Commerce Solutions (May 2021 to Present)<br> 
+I'm currently enrolled at ASU pursuing a Bachelor's of Science in Software Engineering, and working as a Software Engineering intern at Toshiba Global Commerce Solutions (May 2021 to Present)<br> 
 
 ### Contact info:
 
