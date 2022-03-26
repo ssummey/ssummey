@@ -5,5 +5,4 @@ I'm currently enrolled at ASU pursuing a Bachelor's of Science in Software Engin
 ### Contact info:
 
 <a href="https://ssummey.github.io/summey_resume">Resume</a><br>
-<a href="https://scottsummey.com">Website</a><br>
 ssummey@gmail.com
