@@ -1,6 +1,6 @@
 ### About me:
 
-I'm currently enrolled at ASU pursuing a Bachelor's of Science in Software Engineering, and working as a Software Engineering intern at Toshiba Global Commerce Solutions (May 2021 to present)<br> 
+I'm working as a Software Engineer at Microsoft, and currently enrolled at Georgia Tech pursuing a Master's degree in Computer Science<br> 
 
 ### Contact info:
 
